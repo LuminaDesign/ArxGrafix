@@ -226,7 +226,8 @@ h5 {
 
 .box-logo {
     display: block;
-    padding: 20px;
+    padding: 50px;
+    height: 100%;
 }
 
 .box-primary-nav-trigger {
@@ -891,8 +892,8 @@ footer img {
 .top-bar {
     color: #333;
     padding: 150px 0 150px;
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/Axrgrafix\ banner.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/Axrgrafix\ banner.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
